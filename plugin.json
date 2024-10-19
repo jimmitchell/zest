@@ -1,10 +1,10 @@
 {
-	"version": "2.3.0",
-	"title": "Wane",
+	"version": "1.0.0",
+	"title": "Zest",
 	"description": "A stupidly simple Micro.blog theme.",
 	"fields": [
 		{
-			"field": "params.wane_link_color",
+			"field": "params.zest_link_color",
 			"label": "Link color",
 			"type": "color"
 		}

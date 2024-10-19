@@ -1,3 +1,3 @@
-# Wane
+# Zest
 
 a stupid simple Micro.blog theme. This is a work in progress, so no special features yet...
